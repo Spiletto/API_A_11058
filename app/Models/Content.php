@@ -15,7 +15,7 @@ class Content extends Model
 
     protected $fillable = [
         'title',
-        'released year',
+        'released_year',
         'genre',
         'type',
     ];

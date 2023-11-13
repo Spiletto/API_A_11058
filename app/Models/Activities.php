@@ -12,7 +12,7 @@ class Activities extends Model
     protected $table = 'activities';
     protected $primaryKey = 'id' ;
     protected $fillable = [
-    'id user',
+    'id_user',
     'id_content',
     'accessed_at',
     ];
