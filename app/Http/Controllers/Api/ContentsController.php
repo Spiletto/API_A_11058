@@ -6,7 +6,6 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Content;
 use Illuminate\Support\Facades\Validator;
-use Illuminate\Validation\Rule;
 
 class ContentsController extends Controller
 {
